@@ -1,0 +1,6 @@
+[submodule "ordersService"]
+	path = ordersService
+	url = https://github.com/dazevich/ordersService.git
+[submodule "emailService"]
+	path = emailService
+	url = https://github.com/dazevich/emailService.git
